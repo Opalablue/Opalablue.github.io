@@ -1,5 +1,5 @@
 .parallax1 {
-    background-image: url(../img/1500x1098.jpg);
+    background-image: url(1500x1098.jpg);
     min-height: 1000px;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -9,7 +9,7 @@
 }
 
 .parallax2 {
-    background-image: url(../img/universe.jpg);
+    background-image: url(universe.jpg);
     min-height: 1000px;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -26,13 +26,13 @@ body {
     font-family: Source-Serif-Pro-Light; 
     font-style: normal;
     font-weight: normal;
-    src: url(../fonts/SourceSerifPro-Light.ttf);}
+    src: url(SourceSerifPro-Light.ttf);}
 
 @font-face {
     font-family: Source-Serif-Pro-Light;
     font-style: normal;
     font-weight: bold;
-    src: url(../fonts/SourceSerifPro-SemiBold.ttf);
+    src: url(SourceSerifPro-SemiBold.ttf);
 }
 
 .landingtext {
