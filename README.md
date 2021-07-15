@@ -9,3 +9,7 @@ WHAT I LEARNED FROM IT:
 - Hover effects
 - Padding
 - Outlines using shadow
+
+WHAT NEED TO BE FIXED:
+
+- Responsive Design needs improvments
